@@ -1,6 +1,7 @@
 # Classical Classifier
 
-Classificador de imagens com o perceptron clássico.
+Classificador de imagens (Barco x Avião) com o perceptron clássico e 3 redes neurais com arquiteruras diferentes.
 
-Projeto para a disciplina de IF775 - Top. Avan. Algoritmos (Introdução a Computação Quântica)
+Projeto desenvolvido para a disciplina de IF775 - Top. Avan. Algoritmos (Introdução a Computação Quântica)
+
 
